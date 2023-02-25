@@ -1,0 +1,42 @@
+h1{
+	color: green;
+	text-align: center;
+}
+.private{
+	color:green;
+	text-align: center;
+}
+.grid-container{
+	background-color: lightyellow;
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+.grid-item{
+	text-align: center;
+}
+img{
+	width: 400px;
+}
+.partnership{
+	list-style-type: none;
+	margin-left: 30px;
+	border: 2px solid;
+}
+hr{
+	margin-top: 30px;
+	border: 1px solid rgb(255, 0, 0);
+	
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+
+footer{
+	background-color: palegreen;
+	margin-top:10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
